@@ -1,4 +1,4 @@
-# minidash pull request 양식
+# minidash issue 양식
 
 ## 이슈 제목 
 <!-- 이슈 주제 or  제목을 적어주세요 -->
